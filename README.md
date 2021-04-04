@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Jeffrey Shen ClearBlade Project
+
+## Project Setup
+
+1. Set up a `.env` file in the root directory `./` to hold System Secret and System Key as environment variables
+2. Place System Secret and System Key formatted as 
+```
+REACT_APP_SYSTEM_SECRET=<system_secret>
+REACT_APP_SYSTEM_KEY=<system_key>
+```
+
+3. Follow Steps below to run
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
