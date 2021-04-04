@@ -1,5 +1,10 @@
 # Jeffrey Shen ClearBlade Project
 
+*A simple React App for tracking ToDo List tasks stored with ClearBlade Collection*
+
+## Project Demo
+![ToDo Demo](https://i.imgur.com/K5OO2IX.gif)
+
 ## Project Setup
 
 1. Set up a `.env` file in the root directory `./` to hold System Secret and System Key as environment variables
