@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import 'clearblade-js-client/lib/mqttws31'; 
 import ToDo from './ToDo';

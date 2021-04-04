@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import 'clearblade-js-client/lib/mqttws31'; 
 import { ClearBlade } from 'clearblade-js-client';
-import { createBinary } from 'typescript';
 import Button from 'react-bootstrap/Button';
 
 import './ToDo.css';
